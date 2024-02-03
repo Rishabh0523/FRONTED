@@ -1,0 +1,24 @@
+p{
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    line-height: 30px;
+}
+
+#rishu{
+    background-color: yellow;
+    color: brown;
+}
+
+#nishu{
+    background-color: rgb(59, 29, 228);
+}
+
+#puggu{
+    background-color: rgba(188, 18, 18, 0.513);
+}
+
+.hello{
+    background-color: #fc03e8;
+}

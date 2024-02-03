@@ -1,0 +1,51 @@
+.box{
+    border: 2px solid red;
+    width: 25%;
+}
+
+.parent{
+    border: 1px solid black;
+    background-color: beige;
+    width: 50%;
+}
+
+.child{
+    border: 2px solid black;
+    background-color: aqua;
+    width: 20%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    border: 2px solid green;
+    background-color: burlywood;
+     height: 50vh; 
+}
+
+
+ .box1{
+    border: 2px solid red;
+    font-size: 100px;
+  
+ } 
+
+ .hii{
+    font-size: 10px;
+    padding: 5px;
+ }
+
+ .box{
+    font-size: 10em;
+    padding: 2em;
+ }
+
+ .firstpara{
+    border: 2px solid green;
+    font-size: 5rem;
+
+ }

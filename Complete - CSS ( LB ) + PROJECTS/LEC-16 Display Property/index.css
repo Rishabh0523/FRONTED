@@ -1,0 +1,31 @@
+div{
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    padding: 20px;
+}
+
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 20px;
+    /* display: inline; */
+}
+
+span{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 15px;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    /* display: block; */
+}

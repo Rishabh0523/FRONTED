@@ -1,0 +1,15 @@
+.box{
+    border: 2px solid blueviolet;
+    height: 500px;
+    width: 500px;
+    overflow: scroll;
+}
+
+.item{
+    height: 200px;
+    width: 200px;
+    margin: 2px;
+    background-color: aqua;
+    border: 1px solid black;
+    float: left;
+}

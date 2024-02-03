@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+
+#rishu1{
+    background-color: blue;
+}
+
+.nishu{
+    background-color: yellow;
+}
+
+p,article{
+    width: 500px;
+}
+

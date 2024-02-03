@@ -1,0 +1,33 @@
+:root{
+    --primary-color:brown;
+    --custom-width:330px;
+}
+
+
+.container{
+    background-color: beige;
+    height: 650px;
+    border:2px solid black ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    --primary-color:brown;
+    --custom-width:330px;
+    background-color: aquamarine;
+    /* width: 330px; */
+    width: var(--custom-width);
+    height: 330px;
+    border:2px solid  brown ;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 10px 15p yellow;
+    box-shadow: 10px 15px 50px brown;
+    box-shadow: 10px 15px 50px 40px brown;
+    box-shadow: inset 10px 15px brown;
+    box-shadow: 10px 15px red , 15px 8px green;
+
+
+}
