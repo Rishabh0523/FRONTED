@@ -7,3 +7,5 @@
 // It can be passed into another function as a parameter.
 // It can also stored in an array, queue, or stack.
 // Also, It can have its own methods and property.
+
+// Function are the first class citizen .
