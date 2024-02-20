@@ -7,4 +7,4 @@ function add(a: any, b:any): any {
 }
 
 add("Hello ", "Rishabh"); 
-add(10, 20); 
+add(20, 05); 
