@@ -1,5 +1,4 @@
 
-
 // interface Greet{
 
 //     name:string;
@@ -20,8 +19,8 @@ interface Product {
 }
 
 const products:Product ={
-    name : "Macbook",
-    price : 99,
+    name : "Macbook M1",
+    price : 110k,
     quantity :4
 }
 
