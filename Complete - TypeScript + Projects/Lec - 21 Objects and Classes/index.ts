@@ -8,7 +8,7 @@
 
 // const greets:Greet= {
 //     name :"Rishabh",
-//     age : 29
+//     age : 23
 // }
 
 // Creating a product 
