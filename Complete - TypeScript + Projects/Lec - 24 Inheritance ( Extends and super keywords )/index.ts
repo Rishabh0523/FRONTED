@@ -14,7 +14,6 @@ introduce(): string {
     this.age  years old. I love ${this.hobbies.join(",")}`;
     }
     ｝
-
 }
 
 class Students extends Persons {
