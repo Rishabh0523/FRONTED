@@ -17,8 +17,8 @@ introduce(): string {
 }
 
 class Students extends Persons {
-    grade:
-    number;
+    grade :
+    number ;
     constructor (name: string, age: number, hobbies: string[l, grade: number) {
     super(name, age, hobbies);
     this.grade = grade;
