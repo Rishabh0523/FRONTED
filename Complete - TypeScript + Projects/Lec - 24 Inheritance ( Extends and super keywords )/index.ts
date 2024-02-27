@@ -10,8 +10,7 @@ class Persons {
 }
 
 introduce(): string {
-    return `Hi, I'm ${this.name'} and I'm $
-    this.age  years old. I love ${this.hobbies.join(",")}`;
+    return `Hi, I'm ${this.name'} and I'm ${this.age  years old. I love ${this.hobbies.join(",")}`;
     }
     ｝
 }
