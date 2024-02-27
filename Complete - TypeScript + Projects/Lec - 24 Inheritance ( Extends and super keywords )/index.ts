@@ -24,7 +24,6 @@ class Students extends Persons {
     }
 
     introduce(): string {
-        return
-        • ${super.introduce()} .I am in grade ${this.grade};
+        return ${super.introduce()} I am in grade ${this.grade};
     }
 }
