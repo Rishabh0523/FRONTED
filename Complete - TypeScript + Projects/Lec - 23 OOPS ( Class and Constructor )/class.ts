@@ -9,10 +9,9 @@ class Persons {
         this.hobbies = hobbies;
 
     }
-
 }
 
 
 const person1:Persons = new Persons("Ritik",13,["enjoy","moj"]) ;
-const person2:Persons = new Persons("Rishabh",23,["enjoy","moj"]) ;
+const person2:Persons = new Persons("Rishabh",23,["enjoy","kaise ho"]) ;
 console.log(Persons, person1.age);
