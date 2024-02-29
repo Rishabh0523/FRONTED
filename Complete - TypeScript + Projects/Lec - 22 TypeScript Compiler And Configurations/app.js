@@ -4,6 +4,6 @@
 
 const a = 2;
 const b = 3;
-const c = 6;
+const c = 4;
 
 const result = a + b + c;
