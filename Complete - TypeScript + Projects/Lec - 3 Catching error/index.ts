@@ -5,5 +5,5 @@ function Sum(a:number , b:number):number{
     return a+b;
 }
 
-console.log(Sum(5,7));
+console.log(Sum(6,7));
 
