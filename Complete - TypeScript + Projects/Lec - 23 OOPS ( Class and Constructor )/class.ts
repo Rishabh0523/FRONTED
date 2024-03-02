@@ -12,6 +12,6 @@ class Persons {
 }
 
 
-const person1:Persons = new Persons("Ritik",13,["enjoy","moj"]) ;
+const person1:Persons = new Persons("Ritik",13,["enjoy","hello"]) ;
 const person2:Persons = new Persons("Rishabh",23,["enjoy","kaise ho"]) ;
 console.log(Persons, person1.age);
