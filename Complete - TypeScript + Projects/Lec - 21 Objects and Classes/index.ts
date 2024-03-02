@@ -14,14 +14,14 @@
 
 interface Product {
     name: string;
-    price:number;
+    price: number;
     quantity : number
 }
 
-const products:Product ={
+const products:Product = {
     name : "Macbook M1",
     price : 110k,
-    quantity :4
+    quantity : 4
 }
 
 
