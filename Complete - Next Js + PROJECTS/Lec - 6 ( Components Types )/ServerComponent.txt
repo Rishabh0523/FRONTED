@@ -1,0 +1,21 @@
+📌  Server Component :
+
+● Render on the Server Side .
+
+● By default , All components are server components .
+
+● They are closer to the backend .
+
+● So Be-related logic and code should write in server components .
+
+
+📌 Client Component :
+
+● Render on Client Side .
+
+● Can make client components with
+
+` use client ` directive .
+
+● All UI-related code and events should be written here .
+
