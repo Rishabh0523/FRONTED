@@ -1,4 +1,4 @@
 // In this we learned about file and folders .
 
-layout.js : It is entry point of Javascript .
+layout.js : It is Entry point of Javascript and it is most important part of next js .
 page.js : It is first page or we can also say that is home page
