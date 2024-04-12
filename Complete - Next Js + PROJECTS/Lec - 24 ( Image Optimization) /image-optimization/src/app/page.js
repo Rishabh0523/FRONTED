@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <main>
       <h1>Image Optimization</h1>
+  
       {/* <Image
       src={Profile}
       alt="nothing"
@@ -13,7 +14,7 @@ export default function Home() {
 
       <Image
       src={"https://static.toiimg.com/thumb/msid-109093664,width-400,resizemode-4/109093664.jpg"}
-      alt="no"
+      alt="Simple Image"
       height={600}
       width={600}
       />
