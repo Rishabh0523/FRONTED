@@ -11,7 +11,7 @@ export default function Home() {
 <button onClick={()=> setColor("green")}>Click Me</button>
 {/* <h2 className{}>Style with Next Js</h2> */}
 <h2 style={{backgroundColor:color=='red'?'red':'green'}}>Heading 2</h2>
-<h3 id={style.orange}>Heading 3</h3>
+<h3 id={style.orange}> Heading </h3>
     </main>
   );
 }
