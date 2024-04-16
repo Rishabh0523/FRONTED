@@ -12,7 +12,7 @@ export default function Page() {
                 console.log("File Loaded in Next Js")
             }}
             />
-            <h2>Get User Geolocation</h2>
+            <h2>Get User Geolocation Here</h2>
         </div>
     )
 }
