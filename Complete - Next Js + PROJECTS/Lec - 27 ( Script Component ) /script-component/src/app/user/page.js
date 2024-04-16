@@ -9,7 +9,7 @@ export default function Page() {
             <Script
             src="/location.js"
             onLoad={() => {
-                console.log("File Loaded")
+                console.log("File Loaded in Next Js")
             }}
             />
             <h2>Get User Geolocation</h2>
