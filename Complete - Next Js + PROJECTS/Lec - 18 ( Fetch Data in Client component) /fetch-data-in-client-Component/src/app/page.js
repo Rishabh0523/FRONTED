@@ -10,7 +10,7 @@ export default function Home() {
   return (
 <main>
 
-    <h1>This is my first page </h1>
+    <h1>This is my first Page </h1>
      
      <Link href="/productlist">Go to Product List</Link>
        
