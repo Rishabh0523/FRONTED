@@ -4,7 +4,7 @@ export default function Page () {
     return(
         <div className="loader-link">
 
-
+    <h1>Hello jii <h1/>
         </div>
     )
 }
