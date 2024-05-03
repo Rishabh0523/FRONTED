@@ -3,7 +3,7 @@ import css from "./style"
 export default function Page () {
     return(
         <div className="loader-link">
-         <h1> This is a Static Features </h1>
+         <h1> This is a Statics Features </h1>
 
         </div>
     )
