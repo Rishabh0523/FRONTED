@@ -11,7 +11,7 @@ export default async function Page () {
     console.log(users);
     return (
         <div>
-            <h1>User Name List </h1>
+            <h1>Users Name Lists </h1>
 
             {
                 users.map((item)=>(
