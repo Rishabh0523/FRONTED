@@ -5,7 +5,7 @@ import Profile from "../../public/vercel.svg"
 export default function Home() {
   return (
     <main>
-      <h1>Image Optimization</h1>
+      <h1>Image Optimizations</h1>
   
       {/* <Image
       src={Profile}
