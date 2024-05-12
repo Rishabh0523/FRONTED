@@ -6,7 +6,7 @@ export default function Home() {
   return (
 <main>
 <h1 className={custom.main}>Styles and Css with Next Js</h1>
-<h2 className={other.main}>Heading 2</h2>
+<h2 className={other.main}> Headings </h2>
     </main>
   );
 }
