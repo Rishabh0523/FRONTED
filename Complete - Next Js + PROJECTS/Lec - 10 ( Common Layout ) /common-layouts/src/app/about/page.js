@@ -10,8 +10,8 @@ const About = () => {
               <h1>About Page </h1>
               <button onClick={() =>router.push("/")}>Go to Home page</button>  
 
-              <Link href="/about/aboutcollege">Go to about College page</Link>
-              <Link href="/about/aboutstudent">Go to about student page</Link>
+              <Link href="/about/aboutcollege">Go to about of College page</Link>
+              <Link href="/about/aboutstudent">Go to about of student page</Link>
 
         </div>
     )
