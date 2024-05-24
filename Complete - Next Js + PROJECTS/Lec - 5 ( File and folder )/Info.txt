@@ -1,4 +1,4 @@
-// In this we learned about file and folders .
+// In this tutorial I learned about files and folders .
 
 layout.js : It is Entry point of Javascript and it is most important part of Next Js .
 page.js : It is first page or we can also say that is Home page
