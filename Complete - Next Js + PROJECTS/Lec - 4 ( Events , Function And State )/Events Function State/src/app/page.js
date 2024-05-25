@@ -14,13 +14,13 @@ export default function Home() {
   const component = () => {
     return 
     <>
-      <h1>Hello</h1>
+      <h1> Hello Good Morning </h1>
     </>
       
     
   }
   
-
+ 
   return (
     <main className={styles.main}>
       <h1> Events , Functions and State {name}</h1>
