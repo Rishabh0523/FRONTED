@@ -4,7 +4,7 @@ export default function Student({params}) {
     console.log(params)
     return(
         <div>
-            <h1> Student List </h1>
+            <h1> Student Lists </h1>
             
             <h3>Name : {params.student}</h3>
         </div>
