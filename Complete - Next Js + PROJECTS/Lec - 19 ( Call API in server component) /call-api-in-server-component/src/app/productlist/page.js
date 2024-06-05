@@ -12,7 +12,7 @@ let products = await productList();
 console.log(product);
     return(
         <div>
-            <h1>Product Lists</h1>
+            <h1>Product Lists of Paper</h1>
 
             {
                 products.map((item) =>(
