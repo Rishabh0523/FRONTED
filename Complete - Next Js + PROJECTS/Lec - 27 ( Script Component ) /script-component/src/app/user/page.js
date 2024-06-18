@@ -13,7 +13,8 @@ export default function Page() {
             }}
             />
             <h2> Get Users Geolocations Here </h2>
-            <h2> We will get users location here </h2>
+            <h2> Get users location here </h2>
+            
         </div>
     )
 }
