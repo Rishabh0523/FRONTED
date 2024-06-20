@@ -17,5 +17,5 @@
 
 ` use client ` directive .
 
-● All UI-related code and events should be written here .
+● All UI-related code and Events should be written here .
 
