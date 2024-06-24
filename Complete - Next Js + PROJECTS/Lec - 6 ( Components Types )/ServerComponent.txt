@@ -6,7 +6,7 @@
 
 ● They are closer to the backend .
 
-● So Be-related logic and code should write in server components .
+● So be-related logic and code should write in Server components .
 
 
 📌 Client Component :
