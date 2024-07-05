@@ -1,7 +1,7 @@
 const AboutCollege = () => {
     return (
         <div>
-            <h1>About page for College Student</h1>
+            <h1>About Page for College Students</h1>
         </div>
     )
 }
